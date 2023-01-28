@@ -1,6 +1,9 @@
-# naggapuam_ct
+# Naggapuam
+~ "Where have you been?" in english translation
 
-A new Flutter project.
+A Contact tracing app made with Flutter framework.
+
+![README](https://user-images.githubusercontent.com/102324579/215271990-e6cfedd4-45ea-4a04-8cb3-bfbb29a4cfd5.png)
 
 ## Getting Started
 
